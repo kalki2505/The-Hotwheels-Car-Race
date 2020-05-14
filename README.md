@@ -7,7 +7,7 @@ For a car race between 2 Hotwheels cars (which are the fastest toy cars and meas
 
 There are 3 modules in this project:
 
-1. Before the race: The timer count down starts from 3.. 2.. 1.. 0 using a 7-segment display. A buzzer rings to indicate that start the race. If the car is before the starting line the Ultrasonic sensor will sense it and the race will be aborted when the buzzer will ring at high intensity.
+1. Before the race: The timer count down starts from 3.. 2.. 1.. 0 using a 7-segment display (here it is not implemented). A buzzer rings to indicate that start the race. If the car is before the starting line the Ultrasonic sensor will sense it and the race will be aborted when the buzzer will ring at high intensity.
 
 2. During the race: The 2 IR sensor sensors kept at a fixed distance will note the time instance and using the distance formula Arduino code will calculate the speed of both the cars. 
 
