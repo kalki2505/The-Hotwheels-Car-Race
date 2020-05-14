@@ -12,3 +12,5 @@ There are 3 modules in this project:
 2. During the race: The 2 IR sensor sensors kept at a fixed distance will note the time instance and using the distance formula Arduino code will calculate the speed of both the cars. 
 
 3. After the race: The speed will be displayed on the LCD screen (here serial monitor) along with the winner.
+
+Only these 3 modules were implemented though we had tried to make a complete design and have mentioned in the report due to unavailability of lab resources during COVID-19 lockdown period.
