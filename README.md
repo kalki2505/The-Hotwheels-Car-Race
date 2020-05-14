@@ -1,0 +1,2 @@
+# The-Hotwheels-Car-Race
+Kids, teens or adults; the people of all ages find the fast and furious HotWheels Cars fascinating to play with. The center motive of the kids while playing is “whose car is the fastest among the group” . To solve the problem, we decided to make a setup and an embedded system that basically helps two kids to race their cars and decide the winner. Our main focus is making the system with fun parts like LCD display, buzzer, lighting on the declaration of winner, etc so as to make the kids enjoy the race in their real time.
